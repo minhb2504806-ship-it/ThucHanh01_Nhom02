@@ -9,6 +9,6 @@ Trần Ngô Nhựt Minh (Nhiệm vụ 3.1, nhiệm vụ 3.2)<br>
 Đỗ Hoàng Lộc (Nhiệm vụ 2.1, nhiệm vụ 2.2)<br>
 Trang Thị Thu Ngân (Nhiệm vụ 1.2)<br>
 Nguyễn Thanh Hóa (Nhiệm vụ 1.1)<br>
-…………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………<br>
 Infographic được tạo bằng Canva AI<br>
 Nội dung có tham khảo từ Gemini AI<br>
